@@ -1,0 +1,7 @@
+<resources>
+    <!-- Original colors with better contrast -->
+    <color name="darkGrey">#FF121212</color>  <!-- Darker background -->
+    <color name="orange">#FFFF9800</color>    <!-- Operators -->
+    <color name="white">#FFFFFFFF</color>     <!-- Numbers -->
+    <color name="red">#FFFF5252</color>       <!-- Clear button -->
+</resources>

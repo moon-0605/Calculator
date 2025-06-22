@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Calculator button text size -->
+    <dimen name="calcButtonTextSize">24sp</dimen>
+
+    <!-- Add other dimensions if needed -->
+    <dimen name="button_corner_radius">8dp</dimen>
+</resources>
